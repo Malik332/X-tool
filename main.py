@@ -17,6 +17,8 @@ print( green+b+"""
          
  
                    Coded  By Malik Atiquz zaman
+                   GIT HUB : github.com/Malik332
+                   INSTAGRAM : malik_atiquz_zaman
                          
 """)
 # print(banner())
