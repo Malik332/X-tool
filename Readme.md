@@ -8,6 +8,7 @@
 ### Termux commands:
 > git clone https://github.com/Malik332/X-tool
 > python main.py
+> THEN FOLLOW INSTRUCTIONS
  
 ### Contact Me.
 > INSTAGRAM : malik_atiquz_.zaman
